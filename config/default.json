@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://krishnanshu:krish143@cluster0.wxqsk.mongodb.net/krish?retryWrites=true&w=majority",
+    "secrettoken" : "I am the King",
+    "githubClientId"  : "521b58dd55a41028a16f",
+    "githubSecret" : "63a8a9a06734f8c7c22f444520c6e56771827087"
+}
